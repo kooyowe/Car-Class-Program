@@ -1,2 +1,2 @@
-# Car-Class-Lab
-Car Class Lab for Andela Fellow Cohort X Bootcamp
+# Implement a Car Class
+Car Class Lab test
